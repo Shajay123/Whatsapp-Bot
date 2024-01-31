@@ -1,0 +1,12 @@
+2024/01/31-11:58:54.611 2724 Reusing MANIFEST C:\Users\Thaagam\Documents\whatsappbot\ajith\chromedata\Profile 1\Service Worker\Database/MANIFEST-000001
+2024/01/31-11:58:54.612 2724 Recovering log #4
+2024/01/31-11:58:54.615 2724 Reusing old log C:\Users\Thaagam\Documents\whatsappbot\ajith\chromedata\Profile 1\Service Worker\Database/000004.log 
+2024/01/31-12:50:49.206 2724 Level-0 table #8: started
+2024/01/31-12:50:49.210 2724 Level-0 table #8: 64368 bytes OK
+2024/01/31-12:50:49.215 2724 Delete type=0 #4
+2024/01/31-13:19:55.781 2724 Compacting 1@1 + 1@2 files
+2024/01/31-13:19:55.787 2724 Generated table #9@1: 8 keys, 589 bytes
+2024/01/31-13:19:55.787 2724 Compacted 1@1 + 1@2 files => 589 bytes
+2024/01/31-13:19:55.792 2724 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/31-13:19:55.792 2724 Delete type=2 #5
+2024/01/31-13:19:55.792 2724 Delete type=2 #8

@@ -1,0 +1,51 @@
+2024/01/31-11:58:54.581 7fa4 Reusing MANIFEST C:\Users\Thaagam\Documents\whatsappbot\ajith\chromedata\Profile 1\Local Storage\leveldb/MANIFEST-000001
+2024/01/31-11:58:54.585 7fa4 Recovering log #286
+2024/01/31-11:58:54.589 7fa4 Reusing old log C:\Users\Thaagam\Documents\whatsappbot\ajith\chromedata\Profile 1\Local Storage\leveldb/000286.log 
+2024/01/31-12:00:56.549 7d94 Level-0 table #291: started
+2024/01/31-12:00:56.559 7d94 Level-0 table #291: 14216 bytes OK
+2024/01/31-12:00:56.563 7d94 Delete type=0 #286
+2024/01/31-12:18:56.554 7d94 Level-0 table #293: started
+2024/01/31-12:18:56.559 7d94 Level-0 table #293: 13643 bytes OK
+2024/01/31-12:18:56.561 7d94 Delete type=0 #290
+2024/01/31-12:34:56.546 7d94 Level-0 table #295: started
+2024/01/31-12:34:56.551 7d94 Level-0 table #295: 14909 bytes OK
+2024/01/31-12:34:56.553 7d94 Delete type=0 #292
+2024/01/31-12:50:56.549 7d94 Level-0 table #297: started
+2024/01/31-12:50:56.557 7d94 Level-0 table #297: 15026 bytes OK
+2024/01/31-12:50:56.570 7d94 Delete type=0 #294
+2024/01/31-12:50:56.571 7d94 Compacting 4@0 + 1@1 files
+2024/01/31-12:50:56.610 7d94 Generated table #298@0: 4020 keys, 127967 bytes
+2024/01/31-12:50:56.610 7d94 Compacted 4@0 + 1@1 files => 127967 bytes
+2024/01/31-12:50:56.647 7d94 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/31-12:50:56.654 7d94 Delete type=2 #288
+2024/01/31-12:50:56.654 7d94 Delete type=2 #291
+2024/01/31-12:50:56.654 7d94 Delete type=2 #293
+2024/01/31-12:50:56.654 7d94 Delete type=2 #295
+2024/01/31-12:50:56.654 7d94 Delete type=2 #297
+2024/01/31-13:06:56.557 7d94 Level-0 table #300: started
+2024/01/31-13:06:56.562 7d94 Level-0 table #300: 15226 bytes OK
+2024/01/31-13:06:56.566 7d94 Delete type=0 #296
+2024/01/31-13:23:56.546 7d94 Level-0 table #302: started
+2024/01/31-13:23:56.552 7d94 Level-0 table #302: 15137 bytes OK
+2024/01/31-13:23:56.555 7d94 Delete type=0 #299
+2024/01/31-13:39:56.559 7d94 Level-0 table #304: started
+2024/01/31-13:39:56.563 7d94 Level-0 table #304: 14822 bytes OK
+2024/01/31-13:39:56.566 7d94 Delete type=0 #301
+2024/01/31-13:56:56.553 7d94 Level-0 table #306: started
+2024/01/31-13:56:56.559 7d94 Level-0 table #306: 14852 bytes OK
+2024/01/31-13:56:56.562 7d94 Delete type=0 #303
+2024/01/31-13:56:56.563 7d94 Compacting 4@0 + 1@1 files
+2024/01/31-13:56:56.569 7d94 Generated table #307@0: 4227 keys, 134402 bytes
+2024/01/31-13:56:56.569 7d94 Compacted 4@0 + 1@1 files => 134402 bytes
+2024/01/31-13:56:56.571 7d94 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/31-13:56:56.572 7d94 Delete type=2 #298
+2024/01/31-13:56:56.573 7d94 Delete type=2 #300
+2024/01/31-13:56:56.573 7d94 Delete type=2 #302
+2024/01/31-13:56:56.573 7d94 Delete type=2 #304
+2024/01/31-13:56:56.573 7d94 Delete type=2 #306
+2024/01/31-14:12:56.559 7d94 Level-0 table #309: started
+2024/01/31-14:12:56.569 7d94 Level-0 table #309: 13773 bytes OK
+2024/01/31-14:12:56.572 7d94 Delete type=0 #305
+2024/01/31-14:28:56.553 7d94 Level-0 table #311: started
+2024/01/31-14:28:56.558 7d94 Level-0 table #311: 14934 bytes OK
+2024/01/31-14:28:56.561 7d94 Delete type=0 #308
